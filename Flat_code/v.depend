@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1621003151 source:c:\users\dragos\desktop\v\main.cpp
+	<stdio.h>
+	<string.h>
+
